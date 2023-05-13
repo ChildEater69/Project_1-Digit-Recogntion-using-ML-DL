@@ -5,3 +5,7 @@ use these files  HANDWRITTENDIGITRECOGNITION_DEEPLEARNINGCNN.ipynb,HANDWRITTENDI
 
 Model folder contains all the model used to train the models.
 Input_images is the folder of my dataset.
+
+
+I use this video as a reference :https://youtu.be/grHXPlwtNQY
+ANd also few forumns of stackoverflow in oder to clear some errors
