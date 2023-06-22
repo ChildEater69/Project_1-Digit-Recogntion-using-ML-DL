@@ -1,9 +1,8 @@
-# Handwriting Digit Recognition Project
+# Handwriting Digit Recognition Project Project 1
 
-[![Project Demo](1/1.png)](1/Day1.mp4)
-[![Project Demo](1/2.png)](1/Day2.mp4)
-[![Project Demo](1/3.png)](1/Day3.mp4)
-[![Project Demo](1/4.png)](1/Day4.mp4)
+| [<img src="1/1.png" width="200" alt="Day 1 Video">](1/Day1.mp4) | [<img src="1/2.png" width="200" alt="Day 2 Video">](1/Day2.mp4) | [<img src="1/3.png" width="200" alt="Day 3 Video">](1/Day3.mp4) | [<img src="1/4.png" width="200" alt="Day 4 Video">](1/Day4.mp4) |
+| :---: | :---: | :---: | :---: |
+| Day 1 | Day 2 | Day 3 | Day 4 |
 
 This repository contains my progress on the Handwriting Digit Recognition project for the #100days25projectchallenge. Each day, I documented my updates and achievements.
 
