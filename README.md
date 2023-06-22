@@ -32,7 +32,7 @@ Stay tuned for tomorrow's update! I'll be diving into preprocessing and explorin
 
 Check out my progress on [GitHub](https://example.com/day1_github).
 
-[Watch Day 1 Video](https://example.com/day1_video)
+[Watch Day 1 Video](1/Day1.mp4)
 
 ## Day 2 Update
 
@@ -52,7 +52,7 @@ Stay tuned for tomorrow's update as I delve deeper into GUI development, aiming 
 
 Check out my progress on [GitHub](https://example.com/day2_github).
 
-[Watch Day 2 Video](https://example.com/day2_video)
+[Watch Day 2 Video](1/Day2.mp4)
 
 ## Day 3 Update
 
@@ -76,7 +76,7 @@ I will carefully consider these options and make a decision tomorrow. Stay tuned
 
 Check out my progress on [GitHub](https://example.com/day3_github).
 
-[Watch Day 3 Video](https://example.com/day3_video)
+[Watch Day 3 Video](1/Day3.mp4)
 
 ## Day 4 Update
 
@@ -94,7 +94,7 @@ Tomorrow, I am starting a new project on coloring black and white images, and I 
 
 Check out my progress on [GitHub](https://example.com/day4_github).
 
-[Watch Day 4 Video](https://example.com/day4_video)
+[Watch Day 4 Video](1/Day4.mp4)
 
 ## Project Details
 
