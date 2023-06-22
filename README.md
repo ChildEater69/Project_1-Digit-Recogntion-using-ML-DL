@@ -1,6 +1,6 @@
 # Handwriting Digit Recognition Project
 
-[![Project Demo](1/1.png)](1/Day1.mp4)
+[![Project Demo](1/1 .png)](1/Day1.mp4)
 [![Project Demo](1/2.png)](1/Day2.mp4)
 [![Project Demo](1/3.png)](1/Day3.mp4)
 [![Project Demo](1/4.png)](1/Day4.mp4)
