@@ -94,7 +94,7 @@ Check out my progress on [LinkedIn Day 4 Post](https://www.linkedin.com/posts/av
 
 - Project: Handwriting Digit Recognition
 - Challenge: #100days25projectchallenge
-- Repository: [GitHub](https://github.com/yourusername/handwriting-digit-recognition)
+- Repository: [GitHub](https://github.com/ChildEater69/PROJECT_1Digit_Recogntion_using_ML_DL_Guidev/edit/main/README.md#day-1-update)
 
 ---
 
