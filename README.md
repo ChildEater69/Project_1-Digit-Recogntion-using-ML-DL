@@ -1,6 +1,6 @@
 # Handwriting Digit Recognition Project Project 1
 
-| [<img src="1/1.png" width="200" alt="Day 1 Video">](1/Day1.mp4) | [<img src="1/2.png" width="200" alt="Day 2 Video">](1/Day2.mp4) | [<img src="1/3.png" width="200" alt="Day 3 Video">](1/Day3.mp4) | [<img src="1/4.png" width="200" alt="Day 4 Video">](1/Day4.mp4) |
+| [<img src="1/1.png" width="200" alt="Day 1 Screenshot">](https://www.linkedin.com/posts/avdhesh-kumar-sharma-751a49225_100days25projectchallenge-100days25projectchallenge-activity-7062363237886959616-YeLp?utm_source=share&utm_medium=member_desktop) | [<img src="1/2.png" width="200" alt="Day 2 Screenshot">](https://www.linkedin.com/posts/avdhesh-kumar-sharma-751a49225_100days25projectchallenge-100days25projectchallenge-activity-7062787769483296769-vx7O?utm_source=share&utm_medium=member_desktop) | [<img src="1/3.png" width="200" alt="Day 3 Screenshot">](https://www.linkedin.com/posts/avdhesh-kumar-sharma-751a49225_100days25projectchallenge-100days25projectchallenge-activity-7063143354485620736-Vu6Y?utm_source=share&utm_medium=member_desktop) | [<img src="1/4.png" width="200" alt="Day 4 Screenshot">](https://www.linkedin.com/posts/avdhesh-kumar-sharma-751a49225_100days25projectchallenge-github-neuralnetworks-activity-7063505737846538240-xVdz?utm_source=share&utm_medium=member_desktop) |
 | :---: | :---: | :---: | :---: |
 | Day 1 | Day 2 | Day 3 | Day 4 |
 
@@ -30,9 +30,7 @@ Overall, it was an engaging day spent on image generation, augmentation, and pre
 
 Stay tuned for tomorrow's update! I'll be diving into preprocessing and exploring different machine learning algorithms for digit recognition. Let's keep the momentum going! 💪🔥
 
-Check out my progress on [GitHub](https://example.com/day1_github).
-
-[Watch Day 1 Video](1/Day1.mp4)
+Check out my progress on [LinkedIn Day 1 Post](https://www.linkedin.com/posts/avdhesh-kumar-sharma-751a49225_100days25projectchallenge-100days25projectchallenge-activity-7062363237886959616-YeLp?utm_source=share&utm_medium=member_desktop).
 
 ## Day 2 Update
 
@@ -50,9 +48,7 @@ Looking ahead to tomorrow, my focus will shift towards creating a simplified and
 
 Stay tuned for tomorrow's update as I delve deeper into GUI development, aiming to enhance the project's accessibility and visual appeal. Let's maintain the unwavering momentum! 💪🔥
 
-Check out my progress on [GitHub](https://example.com/day2_github).
-
-[Watch Day 2 Video](1/Day2.mp4)
+Check out my progress on [LinkedIn Day 2 Post](https://www.linkedin.com/posts/avdhesh-kumar-sharma-751a49225_100days25projectchallenge-100days25projectchallenge-activity-7062787769483296769-vx7O?utm_source=share&utm_medium=member_desktop).
 
 ## Day 3 Update
 
@@ -70,37 +66,42 @@ Lastly, I researched various GUI-making libraries and found tkinter to be a vers
 
 However, I encountered a challenge with occasional misclassifications. The model sometimes mistakes the digit 2 for 5, 4 for 9, and 3 for 5. This impacts the accuracy of the system.
 
-To address this issue, I have two options. One is to proceed with the GUI interface, accepting occasional incorrect predictions. The other is to implement deep learning techniques to improve the model's performance. Alternatively, hyperparameter tuning is another possibility, though I'm less familiar with its code implementation.
+To address this issue, I have two options. One is to proceed with the GUI development and focus on improving the model later. The other is to enhance the model first and then work on the GUI. I'll make a decision tomorrow after further analysis.
 
-I will carefully consider these options and make a decision tomorrow. Stay tuned for the next update as I work towards enhancing the project further!
+Stay tuned for tomorrow's update as I delve into GUI development and continue to refine my Handwriting Digit Recognition project. Let's conquer the challenges together! 💪🔥
 
-Check out my progress on [GitHub](https://example.com/day3_github).
-
-[Watch Day 3 Video](1/Day3.mp4)
+Check out my progress on [LinkedIn Day 3 Post](https://www.linkedin.com/posts/avdhesh-kumar-sharma-751a49225_100days25projectchallenge-100days25projectchallenge-activity-7063143354485620736-Vu6Y?utm_source=share&utm_medium=member_desktop).
 
 ## Day 4 Update
 
 🚀 Project 1 Day 4 Update! 📝
 
-On the fourth and final day of my Handwriting Digit Recognition project for the #100days25projectchallenge, I dedicated roughly two hours to building a deep learning model using convolutional neural networks (CNN).
+Today, I made significant progress in my Handwriting Digit Recognition project as part of the #100days25projectchallenge. In just 2 hours, I accomplished a crucial task that greatly enhanced the project's usability and visual appeal.
 
-I began by splitting the dataset into new x_train and y_train, using only augmented images. I trained the model, fit the values in it, and ran it for 10 epochs. The accuracy was around 70%, so I increased the number of epochs, leading to an impressive accuracy of 95%.
+I successfully developed a GUI using the tkinter library. This intuitive interface enables users to draw digits and witness the real-time predictions made by the model. By leveraging various tkinter widgets, I created an interactive space where users can experiment with their handwriting and observe the system's accuracy.
 
-To ensure ease of access and organization, I created separate files for data and for running the GUI for machine learning models and the GUI for CNN separately.
+Furthermore, I implemented an accuracy tracker that displays the current accuracy of the model based on the user's drawings. This feature provides valuable insights into the system's performance, allowing users to gauge the effectiveness of the model in real-time.
 
-Although I am not entirely satisfied with the GUI's current state, I plan to upgrade it in the future. As my exams are approaching, I consider this project complete. In total, I spent 3+3+1.5+2=9.5 hours on this project over the course of four days.
+During the GUI development process, I encountered a challenge related to misclassifications. The model occasionally struggled with differentiating between similar digits, such as 2 and 5, 4 and 9, and 3 and 5. This issue impacted the accuracy of the predictions.
 
-Tomorrow, I am starting a new project on coloring black and white images, and I am excited to see what I can achieve. Thank you for following my progress on this project, and stay tuned for updates on my future projects!
+To overcome this challenge, I plan to explore more advanced machine learning techniques and algorithms that can further enhance the model's performance. This includes implementing deep learning approaches like convolutional neural networks (CNN) to leverage the spatial relationships present in the digit images.
 
-Check out my progress on [GitHub](https://example.com/day4_github).
+Stay tuned for future updates as I continue to refine my Handwriting Digit Recognition project. Let's keep pushing the boundaries and striving for excellence! 💪🔥
 
-[Watch Day 4 Video](1/Day4.mp4)
+Check out my progress on [LinkedIn Day 4 Post](https://www.linkedin.com/posts/avdhesh-kumar-sharma-751a49225_100days25projectchallenge-github-neuralnetworks-activity-7063505737846538240-xVdz?utm_source=share&utm_medium=member_desktop).
 
 ## Project Details
 
-- **Date:** 11-05-23
-- **Challenge:** #100days25projectchallenge
-- **Tags:** machinelearning, digitrecognition, datageneration, augmentationtechniques, GUIdevelopment, project
+- Project: Handwriting Digit Recognition
+- Challenge: #100days25projectchallenge
+- Repository: [GitHub](https://github.com/yourusername/handwriting-digit-recognition)
 
-Feel free to explore my progress on GitHub and watch the accompanying videos for each day's updates!
+---
 
+This project is a part of the #100days25projectchallenge, where I take on the challenge of building 25 projects in 100 days. The goal is to enhance my coding skills, explore new technologies, and develop a portfolio of diverse projects.
+
+Stay tuned for more updates as I continue my coding journey! Let's learn, build, and grow together! 💻🚀
+
+---
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourname/) for further discussions and collaborations. Let's connect and inspire each other! 🤝🌟
