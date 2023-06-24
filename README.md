@@ -104,4 +104,4 @@ Stay tuned for more updates as I continue my coding journey! Let's learn, build,
 
 ---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourname/) for further discussions and collaborations. Let's connect and inspire each other! 🤝🌟
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/avdhesh-kumar-sharma-751a49225/) for further discussions and collaborations. Let's connect and inspire each other! 🤝🌟
